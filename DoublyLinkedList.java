@@ -142,7 +142,6 @@ public class DoublyLinkedList<E> {
 
             current = next;
 
-            // IDGI WHY AUTOGRADER NOT MARKING TEST ETST ETSTTT
         }
     }
 }
